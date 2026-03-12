@@ -1,15 +1,6 @@
 # 💫 About Me:
 I'm a Electronics and Communication Engineering student at Government College of Engineering, Erode<br>I'm deeply interested in Hardware(Embedded / VLSI) and also in Software Developement<br>Aspiring Learner | Tech Enthusiast
 
-![GitHub followers](https://img.shields.io/github/followers/primeprime?style=social)
-![GitHub stars](https://img.shields.io/github/stars/primeprime?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=primeprime)
-
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![DSP](https://img.shields.io/badge/Digital%20Signal%20Processing-blue?style=for-the-badge)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prime_snkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prime-r-s-0b7585318) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Prime-um1br) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rsprime265@gmail.com) 
